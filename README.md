@@ -1,5 +1,7 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# A Fishing Game that uses c# Dictionary! 
 
-DO NOT LEAVE IT LIKE THIS!!!
+VERY confused by the unity physics system
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+The speed of getting the fish up was working perfectly fine for one fish, until I made multiple copies of the fish...
+
+I do not understand. 
